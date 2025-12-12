@@ -1,0 +1,42 @@
+{
+  "home": [
+    {
+      "sectionTitle": "ردیف 1",
+      "items": [
+        { "title": "طوبی کرمانی", "body": "متن", "star": "4.5", "image": "https://site.com/img/a.webp" }
+      ]
+    },
+    {
+      "sectionTitle": "ردیف 2",
+      "items": [
+        { "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp" }
+      ]
+    },
+        {
+      "sectionTitle": "ردیف 3",
+      "items": [
+        { "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp" }
+      ]
+    }
+  ],
+  "store": [
+    {
+      "sectionTitle": "ردیف 1",
+      "items": [
+        { "title": "چادر", "body": "توضیح", "price": "120000", "image": "https://site.com/img/p1.webp" }
+      ]
+    },
+        {
+      "sectionTitle": "ردیف 2",
+      "items": [
+        { "title": "چادر", "body": "توضیح", "price": "120000", "image": "https://site.com/img/p1.webp" }
+      ]
+    },
+        {
+      "sectionTitle": "ردیف 3",
+      "items": [
+        { "title": "چادر", "body": "توضیح", "price": "120000", "image": "https://site.com/img/p1.webp" }
+      ]
+    }
+  ]
+}
