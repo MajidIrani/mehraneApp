@@ -22,7 +22,8 @@
     {
       "sectionTitle": "روایت ها و پادکست ها",
       "items": [
-        { "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp", "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp"}
+        { "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp" },
+        { "title": "طوبی کرمانی", "body": "متن", "star": "4.2", "image": "https://site.com/img/b.webp" }
       ]
     },
         {
