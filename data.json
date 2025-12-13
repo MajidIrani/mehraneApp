@@ -281,5 +281,14 @@
 انتخابی شیک برای بانوانی که به استایل خاص و پوشش کامل اهمیت می‌دهند.", "price": "5,000,000","image":"https://majidirani.github.io/mehraneApp/images/chador_abaee.jpg" }
       ]
     }
-  ]
+  ],
+    "slider": [
+    {
+      "sectionTitle": "slider",
+      "items": [
+        {"title":"banner1","imageUrl":"https://majidirani.github.io/mehraneApp/images/banner1.jpg"},
+        {"title":"banner2","imageUrl":"https://majidirani.github.io/mehraneApp/images/banner2.jpg"}
+      ]
+    }
+    ]
 }
