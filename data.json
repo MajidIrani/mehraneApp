@@ -299,38 +299,43 @@
     },
     {
       "sectionTitle": "روسری",
+//       "items": [
+//         {"items":"کشمیر طرح دار","body":"🔹️کشمیر بسیار لطیف
+// 🔸️جنسش چهارفصله
+// 🔹️پرز نمیشه
+// 🔸️دورچرخ
+// 🔹️ایستایی عالی
+
+// 🔻روسری کشمیر
+// 🔺️قواره ۱۴۰
+// 🌱۶ رنگ زیبا","price":"368,000","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
+//         {"items":"روسری نخی","body":"🔹️قواره ۱۳۰
+// 🔸️ایستایی عالی و فوق العاده لطیف
+
+// راحت هم گرد وایمیسته هم تیز","price":"245,000","image":"https://majidirani.github.io/mehraneApp/images/nakhi.jpg"},
+//         {"items":"روسری نخ پنبه سیا اسکارف","body":"با تضمین کیفیت با ایستایی عالی
+
+// 🔹️رنگبندی:۲ رنگ زیبا
+// 🔸️دور دوخت 
+// 🔹️قواره ۱۴۰","price":"288,000","image":"https://majidirani.github.io/mehraneApp/images/nakh_panbe2.jpg"},
+//         {"items":"روسری نخ پنبه سیا اسکارف","body":"با تضمین کیفیت با ایستایی عالی
+
+// 🔹️رنگبندی:۵ رنگ زیبا
+// 🔸️دور دوخت 
+// 🔹️قواره ۱۴۰","price":"288,000","image":"https://majidirani.github.io/mehraneApp/images/nakh_panbe.jpg"},
+//         {"items":"روسری نخی کشمیر وارداتی","body":"ایستایی و کیفیت عاالی
+
+// 🔹️رنگبندی:۶ رنگ زیبا
+// 🔸️دور ریش و بسیار لطیف
+// 🔹️قواره ۱۴۰
+// 🔸️شاین دار","price":"498,000","image":"https://majidirani.github.io/mehraneApp/images/keshmiri2.jpg"},
+//         {"items":"","body":"","price":"368,000","image":"https://majidirani.github.io/mehraneApp/images/chador_abaee.jpg"}
+//       ]
       "items": [
-        {"items":"کشمیر طرح دار","body":"🔹️کشمیر بسیار لطیف
-🔸️جنسش چهارفصله
-🔹️پرز نمیشه
-🔸️دورچرخ
-🔹️ایستایی عالی
-
-🔻روسری کشمیر
-🔺️قواره ۱۴۰
-🌱۶ رنگ زیبا","price":"368,000","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
-        {"items":"روسری نخی","body":"🔹️قواره ۱۳۰
-🔸️ایستایی عالی و فوق العاده لطیف
-
-راحت هم گرد وایمیسته هم تیز","price":"245,000","image":"https://majidirani.github.io/mehraneApp/images/nakhi.jpg"},
-        {"items":"روسری نخ پنبه سیا اسکارف","body":"با تضمین کیفیت با ایستایی عالی
-
-🔹️رنگبندی:۲ رنگ زیبا
-🔸️دور دوخت 
-🔹️قواره ۱۴۰","price":"288,000","image":"https://majidirani.github.io/mehraneApp/images/nakh_panbe2.jpg"},
-        {"items":"روسری نخ پنبه سیا اسکارف","body":"با تضمین کیفیت با ایستایی عالی
-
-🔹️رنگبندی:۵ رنگ زیبا
-🔸️دور دوخت 
-🔹️قواره ۱۴۰","price":"288,000","image":"https://majidirani.github.io/mehraneApp/images/nakh_panbe.jpg"},
-        {"items":"روسری نخی کشمیر وارداتی","body":"ایستایی و کیفیت عاالی
-
-🔹️رنگبندی:۶ رنگ زیبا
-🔸️دور ریش و بسیار لطیف
-🔹️قواره ۱۴۰
-🔸️شاین دار","price":"498,000","image":"https://majidirani.github.io/mehraneApp/images/keshmiri2.jpg"},
-        {"items":"","body":"","price":"368,000","image":"https://majidirani.github.io/mehraneApp/images/chador_abaee.jpg"}
+        {"items":"1","body":"1","price":"1","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
+        {"items":"1","body":"1","price":"1","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
+        {"items":"1","body":"1","price":"1","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
+        {"items":"1","body":"1","price":"1","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"},
+        {"items":"1","body":"1","price":"1","image":"https://majidirani.github.io/mehraneApp/images/keshmiri.jpg"}
       ]
-    }
-  ]
 }
